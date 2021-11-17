@@ -15,10 +15,10 @@ a:hover, a:focus, a.active,
 .typo-light h5 a:hover, .typo-light h5 a:focus, .typo-light h5 a.active, 
 .typo-light h6 a:hover, .typo-light h6 a:focus, .typo-light h6 a.active
 {
-	color: #2196f3;
+	color: #256b3d;
 }
 .btn,.btn.dark:hover{
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 
 
@@ -27,12 +27,12 @@ a:hover, a:focus, a.active,
 
 /* Color */
 .color{
-	color: #2196f3;
+	color: #256b3d;
 }
 
 /* Background Color */
 .bg-color{
-	background-color: #2196f3 !important;
+	background-color: #256b3d !important;
 }
 /* Bg Gradient */
 .bg-gradient{
@@ -40,182 +40,182 @@ a:hover, a:focus, a.active,
 }
 /* Overlay */
 .overlay.bg-color:after{
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 /* Background Video */
 .video-controls a{
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 /* Title */
 .title-container.color *,
 .title-container .dot-separator.color{
-	color: #2196f3;
+	color: #256b3d;
 }
 
 .title-container.color .title-wrap .separator.line-separator,
 .title-container.color .title-wrap .separator.line-separator:after{
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 .title-bg-line > .title a{
-   background-color: #2196f3;
+   background-color: #256b3d;
 }
 .title-bg-line{
-	border-color: #2196f3;
+	border-color: #256b3d;
 }
 /*==================== 
 	Bootstrap 
 ====================== */
 /* Accordion */
 .panel-group .panel{
-	border-right-color: #2196f3;
+	border-right-color: #256b3d;
 }
 /* Tab */
 .nav-tabs > li > a:hover,.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover{
-	color: #2196f3;
-	border-bottom-color: #2196f3;
+	color: #256b3d;
+	border-bottom-color: #256b3d;
 }
 /* Progress */
 .progress-bar{
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 /* List Types */
 .list-icon li:hover:before{
-	color: #2196f3;
+	color: #256b3d;
 }
 /* Pagination */
 .pagination > li > a.active, .pagination > li > a:focus, .pagination > li > a:hover, .pagination > li > span:focus, .pagination > li > span:hover,
 .pager li > a:focus, .pager li > a:hover{
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 
 /* Back to top */
 .cd-top:hover, .cd-top:focus {
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 
 /* Tooltip */
 .tooltip-color .tooltip-inner{
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 .tooltip-color .tooltip.top .tooltip-arrow{
-	border-top-color:#2196f3;
+	border-top-color:#256b3d;
 }
 
 .tooltip-color .tooltip.bottom .tooltip-arrow{
-	border-bottom-color:#2196f3;
+	border-bottom-color:#256b3d;
 }
 
 .tooltip-color .tooltip.left .tooltip-arrow{
-	border-right-color:#2196f3;
+	border-right-color:#256b3d;
 }
 
 .tooltip-color .tooltip.right .tooltip-arrow{
-	border-left-color:#2196f3;
+	border-left-color:#256b3d;
 }
 
 /* Content box */
 .content-box i{
-	color:#2196f3;
+	color:#256b3d;
 }
 .content-box.icon-box .icon-wrap i{
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 /* Cat */
 .cat{
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 
 
 
 /* Team */
 .color-border .member-wrap{
-	border-color: #2196f3;
+	border-color: #256b3d;
 }
 .team-list .member-detail-wrap .position {
-	color: #2196f3;
+	color: #256b3d;
 }
 
 /*==================== 
 	Course 
 ====================== */
 .course-banner-wrap > h6 {
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 .course-wrapper h5 span{
-	color: #2196f3;
+	color: #256b3d;
 }
 
 /*==================== 
 	Timeline 
 ====================== */
 .universh-timeline-img{
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 /*==================== 
 	Events 
 ====================== */
 .events-meta li i, .event-widget p i{
-	color: #2196f3;
+	color: #256b3d;
 }
 /* Testimonial */
 .quote-footer span{
-	color: #2196f3;
+	color: #256b3d;
 }
 .quote-wrap.color > blockquote{
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 /* Page Header */
 .page-header .breadcrumb li, .page-header .breadcrumb li a:hover, .page-header .breadcrumb li a:focus{
-	color: #2196f3;
+	color: #256b3d;
 }
 .page-header .title::after,
 .page-header .title::before{
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 /* Related Block */
 .related-content a{
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 /*==================== 
 	Widgets 
 ====================== */
 .widget-title span{
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 .widget li a:hover, .widget li a:focus, .widget li a.active,
 .widgets-dark.typo-light .widget li a:hover, .widgets-dark.typo-light .widget li a:focus, .widgets-dark.typo-light .widget li a.active{
-	color: #2196f3;
+	color: #256b3d;
 }
 /* Tag Widget */
 .tag-widget li a:hover, .tag-widget li a:focus, .tag-widget li a.active{
-	background-color: #2196f3;
-	border-color: #2196f3;
+	background-color: #256b3d;
+	border-color: #256b3d;
 }
 .widgets-dark.typo-light .tag-widget li a:hover, .widgets-dark.typo-light .tag-widget li a:focus, .widgets-dark.typo-light .tag-widget li a.active{
 	color: #fff;
 }
 /* Go widget */
 .go-widget li a:hover .badge, .accordion-widget .panel-default > .panel-heading a:hover .badge{
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 .widgets-dark.typo-light .widget .accordion-widget .panel-default > .panel-heading:hover .badge{
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 .widgets-dark.typo-light .widget.no-box .accordion-widget .panel-default > .panel-heading:hover .badge{
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 /* Thumbanil Widget */
 .thumbnail-widget span.color{
-	color: #2196f3;
+	color: #256b3d;
 }
 /*==================== 
 	Owl Carousel
 ====================== */
 .owl-theme .owl-nav > div:hover {
-	background-color:#2196f3;
+	background-color:#256b3d;
 }
 .owl-theme .owl-dots .owl-dot:hover span, .owl-theme .owl-dots .owl-dot.active span{
-	background-color:#2196f3;
+	background-color:#256b3d;
 }
 
 
@@ -224,25 +224,25 @@ a:hover, a:focus, a.active,
 	background:rgba(33, 150, 243, 0.9);
 }
 .isotope-filters .nav-pills li a.active, .isotope-filters .nav-pills li a:hover, .isotope-filters .nav-pills li a:focus{
-	background-color:#2196f3;
+	background-color:#256b3d;
 }
 /* News */
 .news-cat{
-	background-color:#2196f3;
+	background-color:#256b3d;
 }
 
 /* Shop */
 .product-label, .product-details .option-btn, .shop-meta li a:hover, .shop-meta li a:focus{
-	background-color:#2196f3;
+	background-color:#256b3d;
 }
 .liked-members a:hover,.liked-members a:focus{
-	background-color:#2196f3;
+	background-color:#256b3d;
 }
 
 
 /* Footer */
 .footer-copyright nav ul li a:hover, .footer-copyright nav ul li a:focus{
-	color: #2196f3;
+	color: #256b3d;
 }
 
 /*==================== 
@@ -253,49 +253,49 @@ a:hover, a:focus, a.active,
 #header nav ul.nav-main li > a:hover,
 #header nav ul.nav-main li.dropdown:hover a,
 #header.flat-menu nav ul.nav-main li.active > a {
-	background-color: #2196f3;
+	background-color: #256b3d;
 }
 
 #header nav ul.nav-main ul.dropdown-menu {
-	border-color: #2196f3;
+	border-color: #256b3d;
 }
 
 #header nav ul.nav-main li.dropdown:hover ul.dropdown-menu li > a:hover {
-	background: #2196f3 ;
+	background: #256b3d ;
 }
 #header .tip{
-	background: #2196f3;
+	background: #256b3d;
 }
 #header .tip:before{
-	border-left-color: #2196f3;
+	border-left-color: #256b3d;
 }
 @media (min-width: 992px) {
 	#header.single-menu nav ul.nav-main li.active > a {
-		border-top: 5px solid #2196f3;
+		border-top: 5px solid #256b3d;
 	}
 
 	#header.darken-top-border {
-		border-color: #2196f3;
+		border-color: #256b3d;
 	}
 
 	#header.colored .header-top {
-		background-color: #2196f3;
+		background-color: #256b3d;
 	}
 
 	#header.colored .header-top ul.nav-top li a:hover {
-		background-color: #2196f3;
+		background-color: #256b3d;
 	}
 	
 	/*#header.flat-menu nav ul.nav-main li.active > a {
-		color: #2196f3;
+		color: #256b3d;
 	}*/
 
 	#header.flat-menu nav ul.nav-main li > a:hover,
 	#header.flat-menu nav ul.nav-main li.dropdown:hover a {
-		background-color: #2196f3;
+		background-color: #256b3d;
 	}
 
 	#header nav.mega-menu ul.nav-main li.mega-menu-item ul.dropdown-menu {
-		border-top-color: #2196f3;
+		border-top-color: #256b3d;
 	}
 }

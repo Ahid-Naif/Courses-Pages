@@ -453,7 +453,7 @@ typo-thin small{
 
 /* Back top top */
 .cd-top {
-	background: #252525;
+	background: #256b3d;
 	display: inline-block;
 	height: 50px;
 	width: 50px;
@@ -1592,7 +1592,7 @@ ul.social-icons li.vk:hover {
 	background-color:#f5f5f5;
 }
 .bg-dark{
-	background-color:#252525;
+	background-color:#256b3d;
 }
 .bg-verydark{
 	background-color:#111 !important;
@@ -4038,7 +4038,7 @@ footer ul{
 }
 /* Copy Right Footer */
 .footer-copyright {
-	background: #222;
+	background: #256b3d;
 	padding: 30px 0;
 }
 .footer-copyright .logo {
