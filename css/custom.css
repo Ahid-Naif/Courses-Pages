@@ -1,0 +1,7 @@
+:not(i) { 
+    font-family:'Noto Kufi Arabic'; 
+}
+
+.themeFont:not(i){
+    font-family:'Noto Kufi Arabic'; 
+}
